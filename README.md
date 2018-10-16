@@ -52,4 +52,7 @@ song album: 25
 
 As we begin to build complex web applications using Sinatra and Rails, this pattern of inheritance will become familiar. In fact, we'll use an ORM tool called Active Record that handles *all* of the ORM interactions for us, and we'll simply inherit our Ruby classes from Active Record's classes.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-dynamic-orm-inheritance/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-dynamic-orm-inheritance/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Dynamic ORM with Inheritance</p>
